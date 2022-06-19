@@ -16,3 +16,6 @@
 
 gerbers
 *.zip
+*-backups
+
+.DS_Store
